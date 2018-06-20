@@ -1,0 +1,8 @@
+---
+layout: page
+post: Baffled!
+---
+
+![alt](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2018-06/sb/screenshot_2018_06_19_at_5.05.18_pm-31826903.jpg?ts=1529455279)
+
+My root route works just fine, but my "/love/:thing" route throws an error: "Cannot read property 'thing' of  undefined."
