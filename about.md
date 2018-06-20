@@ -1,15 +1,6 @@
 ---
 layout: page
-title: [About](https://heartandhandstraining.github.io/main/)
+title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
-
-Reasons:
-- its great.
-- its a test.
-
-## Other thoughts
-
-This is great.
+[Who Am I?](https://heartandhandstraining.github.io/main/)
