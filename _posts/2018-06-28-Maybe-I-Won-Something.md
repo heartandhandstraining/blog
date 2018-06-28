@@ -13,6 +13,3 @@ little reviewing if needed. I always view this as not a bad thing, a bit of a pa
 figured out how to do mostly just what I needed to do to meet my needs with the web "stuff." So, thes modes have brought me a little knowledge in a lot of areas of the computer & online world, forward movement in many avenues of the web.....
 
 Thank you for staying tuned.
-
-Update: I have checked this out, and it information very useful to me, as I have a Virtual Machine I have installed on my MacBook Air, which I have been using, but without any real training, so I will be going through this material. I honestly think the information must be online, or included with my VM somewhere, because this material says it is the VM manual. I did not know that
-was what CCNA certification was about. Hmmmmm! Here I go at this task!
