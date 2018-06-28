@@ -1,0 +1,17 @@
+---
+layout: page
+post: Oh, Gosh!
+---
+
+I am enjoying this CCNA-Virtual Machine reading becaue it is, also, spurring me to look up some names and words not defined in the manual.
+History of computing is basically the resulting side searches, and silly as it sounds, it gives me "warm fuzzies" so-to-speak. Memories of
+computer encounters, which mostly started with my Dad and his work, his passions. With his background at the Colorado School of Mines,
+he worked in the mining industry. And, it is with my very young childhood days of being by his side in the mine offices or in his fieldwork
+or with him bringing work home that I recall his passions, including that for computers, from a clunky Hewelett Packard to Texas Instruments
+and IBMs, which I was, also, exposed to in highschool...
+
+I miss those days, and I guess that is why there is always has been a spark of love in me for computer technology (even if I think the 
+whole cloud thing and dependence on it is going to be society's downfall someday, and my Dad did, too, in his last days). He was quite 
+certain that this is not the only time in history that we have had computer and internet technology, so much of it,and then lost it all,
+falling into a dark cloud of ignorance. For some reason, though we love the knowledge behind the system, though, and its so many wonders
+and capabilities!
