@@ -1,6 +1,7 @@
---
+---
 layout: title
 post: Getting Back in Gear with IT Studies
+---
 
 I am back from some fantastic and well-needed trips and am conquering a minor skin health issue both of which took me away from my 
 studies, but I am back.
