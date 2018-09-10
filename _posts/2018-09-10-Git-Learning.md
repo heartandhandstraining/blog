@@ -1,6 +1,6 @@
 ---
-layout: title
-post: Git Learning
+layout: post
+title: Git Learning
 ---
 
 Today I am deepening my understanding of Git and Github. Using [this information](https://github.com/learn-co-students/git-remote-code-along-v-000) for managing and merging Git Repositories between Github and 
