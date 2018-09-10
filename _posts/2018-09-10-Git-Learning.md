@@ -14,4 +14,4 @@ lower (the network engineering specialists arena) layers of the OSI model.
 
 Smiling! Yep! (despite dealing with a nasty skin issue for the last 2 months... but I am conquering that, as well!)
 
-Stay tuned.
+Stay tuned!
