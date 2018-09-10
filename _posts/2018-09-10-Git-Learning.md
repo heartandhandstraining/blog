@@ -6,7 +6,7 @@ title: Git Learning
 Today I am deepening my understanding of Git and Github. Using [this information](https://github.com/learn-co-students/git-remote-code-along-v-000) for managing and merging Git Repositories between Github and 
 a local machine, I am it successfully so far on my Cloud9 Virtual machine in instead of my local computer.
 
-I also learned about [making pull requests](https://github.com/learn-co-curriculum/github-pull-request-basics), which are is not the same as the "pull" command..
+I also learned about [making pull requests](https://github.com/learn-co-curriculum/github-pull-request-basics), which is not the same as the "pull" command..
 
 This was much needed information as I do plan to build and post web appliations on Github! I find it exciting to see how these things work and 
 add these skills to my toolset!
