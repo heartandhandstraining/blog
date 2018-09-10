@@ -1,6 +1,7 @@
 ---
 layout: title
 post: Git Learning
+---
 
 Today I am deepening my understanding of Git and Github. Using [this information](https://github.com/learn-co-students/git-remote-code-along-v-000) for managing and merging Git Repositories between Github and 
 a local machine, I am it successfully so far on my Cloud9 Virtual maching in instead of my local computer.
