@@ -15,3 +15,5 @@ css file, so the html fixes were easy. I made git changes in the C9 terminal and
 I am getting much more the hang of git and Github, especially from local (or C9) connected to the remote repository on Github! Way Cool. Today's
 web fixing project result is [here](https://html-album-cover-heartandhandstraining.c9users.io/index.html). It seems this link works for the public,
 but this aspect of sharing is new to me, so I will check it later, too.
+
+Yes, I am still reviewing my CCNA Routing and Switching. It is challenging too, but I kind of enjoy the upper layers of the OSI stack, Application and Presentation, just a little more (maybe a lot! LOL!). And, I have been hammering away at Nursing CEUs, too, to make sure I have those out of the way, so I can do this more fun stuff!
