@@ -3,7 +3,7 @@ layout: post
 title: C9 And Coding Bootcamp Beginning WOWS!
 ---
 
-I am full of love and excitement with my progress! I have been able to get tests to run on a couple of github projects pulled to C9. 
+I am full of love and excitement with IT work! I have been able to get tests to run on a couple of github projects pulled to C9. 
 According to the rspec test feedback I had to have 'simplecov' on one project (one I did long ago), so I installed that gem and placed the "require 'simplecov' in 
 the spec helper file. This made all the tests run on my code and all my code passed!
 
