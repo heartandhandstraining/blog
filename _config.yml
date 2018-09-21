@@ -10,3 +10,5 @@ author: Dawn Ann Beattie, RN, MBA
 markdown: kramdown
 theme: minima
 
+plugins:
+  - jekyll-feed
