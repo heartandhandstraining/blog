@@ -175,7 +175,8 @@ Processing by PostsController#index as HTML
   Post Load (0.3ms)  SELECT "posts".* FROM "posts"
   Rendered posts/index.html.erb within layouts/application (2.0ms)
 Completed 200 OK in 24ms (Views: 23.2ms | ActiveRecord: 0.3ms)
+
 ![alt](https://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2018-10/sb/ruby_on_ratls-75798012.jpg?ts=1538516801)
 
-Code to have the application run from the posts page (as above):
+**Code to have the application run from the posts page (as above):**
 ![al](http://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2018-10/sb/root_routs-62848630.jpg?ts=1538517541)
