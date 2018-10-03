@@ -8,4 +8,4 @@ I attended an Cisco CyberSecurity lecture (#2 of a 3 part series), today. Now, I
 
 To be a CyberSecurity professional, you need to know how to hack a website or network, etc. In order to know how to do that, you need to know how to build a website or network, how to code, etc. In other words whatever you want to break into, you first learn how to build it and how it word! That is the most useful learning or affirmation I have received from this first lecture. 
 
-Also, [check security of a url or file here](https://www.virustotal.com/#/home/upload).
+Also, [check security of a url or file here](https://www.virustotal.com/#/home/upload). [Here](https://static-course-assets.s3.amazonaws.com/CyberSec2.1/en/course/files/1.2.1.3%20Lab%20-%20Compare%20Data%20with%20a%20Hash.pdf) is another tool for checking files.
