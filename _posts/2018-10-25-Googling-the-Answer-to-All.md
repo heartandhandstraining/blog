@@ -7,7 +7,7 @@ I never cease to be amazed how "googling" has been my life-saver in so many ways
 at my googling finger-tips, and that is truly ANYTHING! If you can think of a question, someone else has probably asked it, and you can 
 probably google it and find associated helpful information.
 
-It is tempting to just dump organized study by area of knowledge for just googling for information to coomplete some constructive project.
+It is tempting to just dump organized study by area of knowledge for just googling for information to complete some constructive project.
 Essentially, that is what I have done on many things. I had need for additional knowledge and intervention immediately to keep my head 
 above water and/or make progress, and I was always able to meet those needs and then some. 
 
