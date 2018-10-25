@@ -21,5 +21,5 @@ it is those "dives" that really add to the experience!
 I will get there! Forward I go!
 
 Addendum: Yes, I just had to dump some learning activities for "real" projects. I am already too familiar with the material, so they 
-are boring. If I do something real, then I am more compelled to finish, even if that means googling for the gaps in my knowledge to 
-get the job done!
+are boring. If I do something more purposeful, then I am more compelled to finish, even if that means googling for the gaps in my
+knowledge to get the job done!
