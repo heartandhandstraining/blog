@@ -19,3 +19,7 @@ I guess I am in that somewhat "chicken" mode, and it usually takes the extra dri
 it is those "dives" that really add to the experience! 
 
 I will get there! Forward I go!
+
+Addendum: Yes, I just had to dump some learning activities for "real" projects. I am already too familiar with the material, so they 
+is boring. If I do something real, then I am more compelled to finish, even if that means googling for the gaps in my knowledge to 
+get the job done!
