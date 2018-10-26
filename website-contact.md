@@ -13,4 +13,4 @@ title: WEB-SITE
 
 [Heart&Hands VikingSheepArt](https://vikingsheepart.github.io/main/)
 
-[Heart and Hands Blog Posts](https://heartandhandstraining.github.io/blog/)
+['Heart and Hands Blog Posts'](https://heartandhandstraining.github.io/blog/)
