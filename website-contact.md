@@ -12,3 +12,5 @@ title: WEB-SITE
 [Heart and Hands CNA Class](https://heartandhandstraining.github.io/CNA/)
 
 [Heart&Hands VikingSheepArt](https://vikingsheepart.github.io/main/)
+
+[Heart and Hands Blog Posts](https://heartandhandstraining.github.io/blog/)
