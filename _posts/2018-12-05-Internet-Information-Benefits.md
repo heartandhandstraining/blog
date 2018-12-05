@@ -13,7 +13,7 @@ BCC) on my nose. The minor spots I started treating the past 2-3 weeks were fair
 trying to rid them. Maybe I should have kept them covered, since what I wanted was for her to check the rest of me, which point I 
 did eventually able to get across to her.
 
-Luckily my husband was there for me because this young gal was telling me how the U.S. is trying rid the inventer of this dangerous 
+Luckily my husband was there for me because this young gal was telling me how the U.S. is trying rid the inventer and his dangerous 
 treatment as well as others, which I know is due to her programming in medical school as evidenced by so-called medical research 
 I found on the internet lumping this treatment with some others and stating in conclusion that doctors in-training must be taught to 
 inform their patients as such. I said, "bull-shit," a very rare utterance, but some things are what they are need to be made known. 
