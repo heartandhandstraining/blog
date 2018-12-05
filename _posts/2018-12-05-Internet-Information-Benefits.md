@@ -28,7 +28,7 @@ showing any attempts to actually learn exactly what they were, how to use them, 
 ANY treatment can and likely will fail, not matter how good, if it is not used as intended, correctly, and knowledgeably.
 
 It took some time for me to actually seek out and research my current treatment.This skin cancer treatment issue all started July 15, 
-I started using my current treatment September 2, after slow (or little, if any) progress with other treatments thus far. Other than 
+I started using my current treatment September 2 after slow (or little, if any) progress with other treatments thus far. Other than 
 this treatment being expensive for someone with no insurance and minimal income, it has decades of research, pharmacologic information, 
 recommended supervision by a physician, and 5 star feedback from so many purchasing users worldwide on numerous websites. I informed 
 her of all this, and she did say she would take literature. I brought nothing with me, somewhat because I figured I would have this
