@@ -35,7 +35,7 @@ her of all this, and she did say she would take literature. I brought nothing wi
 negative response, and I did not even want to give the name of the product because I did not want negative backlash against the 
 product and its availability. I figure she has the information easily at her fingertips, just as I did, if she is truly interested.
 
-When I got home and saw the areas she circled for biopsy sample with her hard-to-remove blue-black ink, I was thankful I opted out, 
+When I got home and saw the areas she circled for biopsy samples with her hard-to-remove blue-black ink, I was thankful I opted out, 
 because I am positive there was nothing there (between the viewing with her skin cancer detection light and my experience in treat-
 ment thus far giving the sense that I had already successfully treated all the lesions). I am so glad I had no insurance at the
 time this all started and through my husband's emotional support and my nursing/farming background and my tendency to research and
