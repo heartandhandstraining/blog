@@ -14,7 +14,7 @@ trying to rid them. Maybe I should have kept them covered, since what I wanted w
 did eventually able to get across to her.
 
 Luckily my husband was there for me because this young gal was telling me how the U.S. is trying rid the inventer and his dangerous 
-treatment as well as others. I know this is due to programming in medical school as evidenced by so-called medical research 
+treatment as well as others. I know this is due to programming in medical school, as evidenced by so-called medical research 
 I found on the internet lumping this treatment with some others, stating in-conclusion that doctors in-training must be taught to 
 inform their patients as such. I said, "bull-shit," a very rare utterance, but some things are what they are need to be made known. 
 She then said it is not FDA-approved and not the "gold standard" in treatment. I said FDA approval involves a great deal of politics, 
