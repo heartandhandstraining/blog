@@ -23,8 +23,7 @@ gathered), and I gave the approval of Nutra-Sweet and non-approval of Echinacea 
 many others).
 
 I cannot vouch for the other treatments with which my treatment was lumped in research (but yet not individually researched) since 
-my experience of those is not personal, but likely there is some element of untruth there, too, based on research information from  
-very credible people in my life. Not only was my treatment and others not individually researched, but there was no research
+my experience of those is not personal, but likely there is some element of untruth there, too, based on research information from very credible people in my life. Not only was my treatment and others not individually researched, but there was no research
 showing any attempts to actually learn exactly what they were, how to use them, and then oversee any controlled proper use, etc. 
 ANY treatment can and likely will fail, not matter how good, if it is not used as intended, correctly, and knowledgeably.
 
