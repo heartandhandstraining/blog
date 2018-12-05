@@ -27,7 +27,7 @@ my experience of those is not personal, but likely there is some element of untr
 showing any attempts to actually learn exactly what they were, how to use them, and then oversee any controlled proper use, etc. 
 ANY treatment can and likely will fail, not matter how good, if it is not used as intended, correctly, and knowledgeably.
 
-It took some time for me to actually seek out and research my current treatment.This skin cancer treatment issue all started July 15, 
+It took some time for me to actually seek out and research my current treatment. This skin cancer treatment issue all started July 15, 
 I started using my current treatment September 2 after slow (or little, if any) progress with other treatments thus far. Other than 
 this treatment being expensive for someone with no insurance and minimal income, it has decades of research, pharmacologic information, 
 recommended supervision by a physician, and 5 star feedback from so many purchasing users worldwide on numerous websites. I informed 
