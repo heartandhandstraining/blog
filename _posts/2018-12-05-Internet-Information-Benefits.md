@@ -42,7 +42,7 @@ time this all started and through my husband's emotional support and my nursing/
 use of alternatives got me through this speed bump before my doctor visit and that I was able to have the doctor inspect my skin 
 for the more dangerous melanomas.
 
-As an added note, my husband is is not done with the healing process of one of these BCC skin cancers on his hand (since July, biopsied mid-August, removed Sept 17), and it is still not quite healed, for which situation he had the dermatologist check mid-November with her saying it was healing fine, with just naked eye inspection, ie no skin cancer detection light etc).
+As an added note, my husband is is not done with the healing process of one of these BCC skin cancers on his hand (since July, biopsied mid-August, removed Sept 17), and it is still not quite healed, for which situation he had the dermatologist check mid-November with her saying it was healing fine, with just naked eye inspection, ie no skin cancer detection light, etc.
 
 For the great benefit to society, I just hope internet information and such alternative resources remain available. Censorship and 
 control of information and access to products by government, media, or any other entity must be limited. With some of what I have 
