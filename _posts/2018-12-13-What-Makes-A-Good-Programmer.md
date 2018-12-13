@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What Makes A Good Coding Student?
+title: What Makes A Good Coding Programmer?
 ---
 
 Successful 'logic' vs 'math' skills
