@@ -5,7 +5,7 @@ title: What Makes A Good Programmer?
 
 Successful 'logic' vs 'math' skills
 
-Problem solving-fun!! 
+Problem-solving fun!! 
 
 'Can do' attitude 
 
