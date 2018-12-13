@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NETCONF
+title: NETCONF and RESTCONF
 ---
 
 NETCONF is a Cisco device protocol carrying YANG data in XML format for network configuration. RESTCONF is a similar protocol for
