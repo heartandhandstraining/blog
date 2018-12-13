@@ -1,9 +1,9 @@
 ---
 layout: page
-title: What Makes A Good Student?
+title: What Makes A Good Coding Student?
 ---
 
-Successful logic vs math 
+Successful 'logic' vs 'math' skills
 
 Problem solving-fun!! 
 
