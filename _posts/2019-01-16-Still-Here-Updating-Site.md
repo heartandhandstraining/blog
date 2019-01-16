@@ -12,6 +12,6 @@ serve a larger audience is the way to go yet. Though there is little assistance 
 the most difficult,I know there is a currently a glut of general online assistance for CNA education.
 
 For me, that is great as developer, instructor and student! There are so many resources for doing any kind of project, especially
-smaller projects! Let me know if you need a small-scale project done. I am real good at doing those!
+smaller projects! Let me know if you need a small-scale project done. I am real good at doing those, and I will try to work them  into my schedule!
 
 Back to work!
