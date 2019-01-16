@@ -11,7 +11,7 @@ year. The online applications and resources I have been for more than 10 years h
 serve a larger audience is the way to go yet. Though there is little assistance with the Headmaster CNA exam and the MT exam is likely 
 the most difficult,I know there is a currently a glut of general online assistance for CNA education.
 
-For me, that is great as developer, instructor and student! There are so many resources for doing any kind of project, and especially
-smaller projects! 
+For me, that is great as developer, instructor and student! There are so many resources for doing any kind of project, especially
+smaller projects! Let me know if you need a small-scale project done. I am real good at doing those!
 
 Back to work!
