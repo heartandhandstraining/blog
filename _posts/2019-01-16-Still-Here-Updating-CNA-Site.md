@@ -1,6 +1,6 @@
 ---
 layout: post
-page: Still Here Updating C.N.A. Site
+page: Still Here Updating Site
 ---
 
 The new year is here and I enjoyed the holiday season with family. I am back to working on the web and networking. 
