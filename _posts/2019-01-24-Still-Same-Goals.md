@@ -5,7 +5,7 @@ title: Still Same Goals
 
 As I update format on my CNA site, which combines a few other web tools, I think it is still in the future to convert to mostly my own
 dedicated server site again. The biggest issue with making use of other web applications to build a site is being at the mercy of those other
-web designers. I would not have to change near as much up to now if these sites had not changed their tools so much. 
+web programmers. I would not have to change near as much up to now if these sites had not changed their tools so much. 
 
 However, changes are not near as frequent as they used to be when they were new tools. Google Docs & Forms, Keep & Share, Study Stack, and 
 YouTube have been my mainstays, and even when I totally program my own site, I may still find use for these. I will think twice about letting
