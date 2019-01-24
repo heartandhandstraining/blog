@@ -17,7 +17,7 @@ for my businesses, but I always adjusted for the benefit of having free secure l
 Yes, what led me to Keep & Share in the first place was the security. I was having issues with that when I had my own dedicated server.
 Student emails addresses being spied and utilized, someone redirecting my site to a phony site, and there may have been another issue or
 two, but those were the main ones. I even totally shut down my site and started a new one and still eventually had it happen again. Luckily,
-I was always one to have back-up on everything. 
+I was always one to have back-up on everything, ie class was always up and running. 
 
 Google, Keep & Share, and Study Stack were free back-up for me in the beginning. Security is primarily what prompted me to give up some 
 control for security. Though there were little glitches and changes in their systems, especially in the beginning, I did not have to worry
@@ -46,4 +46,4 @@ forms. I have vowed to not give up my paid Keep & Share and to not totally dump 
 more control into it by programming my own dedicated server with exams, games, and audio/visuals, but a certain amount of what I have will 
 remain in use at least as "back-up" as in the early days of my CNA site. They are good, well-established, refined, inexpensive tools by today's
 standards as proven by my 12 + years of using and evolving with them. However, for growth and autonomy, I will continue to look toward 
-developing (programming) my own secure mirror image of that site as the primary CNA site.
+developing (programming) my own SECURE mirror image of that site as the primary CNA site.
