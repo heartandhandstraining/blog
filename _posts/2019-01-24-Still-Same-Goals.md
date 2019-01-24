@@ -3,7 +3,7 @@ layout: post
 title: Still Same Goals
 ---
 
-As I update format on my CNA site, which coombines a few other web tools, I think it is still in the future to convert to mostly my own
+As I update format on my CNA site, which combines a few other web tools, I think it is still in the future to convert to mostly my own
 dedicated server site again. The biggest issue with making use of other web applications to build a site is being at the mercy of those other
 web designers. I would not have to change near as much up to now if these sites had not changed their tools so much. 
 
@@ -17,7 +17,7 @@ for my businesses, but I always adjusted for the benefit of having free secure l
 Yes, what led me to Keep & Share in the first place was the security. I was having issues with that when I had my own dedicated server.
 Student emails addresses being spied and utilized, someone redirecting my site to a phony site, and there may have been another issue or
 two, but those were the main ones. I even totally shut down my site and started a new one and still eventually had it happen again. Luckily,
-I was always one to have back-up on everything, ie class was always up and running. 
+I was always one to have back-up for everything, ie class was always up and running. 
 
 Google, Keep & Share, and Study Stack were free back-up for me in the beginning. Security is primarily what prompted me to give up some 
 control for security. Though there were little glitches and changes in their systems, especially in the beginning, I did not have to worry
