@@ -11,7 +11,7 @@ However, changes are not near as frequent as they used to be when they were new 
 YouTube have been my mainstays, and even when I totally program my own site, I may still find use for these. I will think twice about letting
 my paid Keep & Share account go as no such account as I have exists anymore and definitely not at as good of a price. I regret not 
 making use of the google business account when it was free, and I knew I would regret it in that it would not be free forever (unless 
-one got in early like I also did with Keep & Share's first paid accounts (for life). There were bumps along the way in using these sites
+one got in early like I did with Keep & Share's first paid accounts guaranteed price for life). There were bumps along the way in using these sites
 for my businesses, but I always adjusted for the benefit of having free secure link.
 
 Yes, what led me to Keep & Share in the first place was the security. I was having issues with that when I had my own dedicated server.
