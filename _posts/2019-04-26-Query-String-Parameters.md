@@ -4,7 +4,7 @@ title: Query String Parameters
 ---
 
 Wow! I learned just how significant anything after a question mark in the web browser is! That info is parameters passed
-into the next page.
+into the next page through the web browser url.
 
 Okay... Yes, I am still working on the web, CNA class and web development, and project info posting is due... It will get done.
 
