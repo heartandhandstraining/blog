@@ -19,6 +19,6 @@ By the way.... [My first Ruby-on-Rails Application](https://sleepy-waters-11173.
 
 [Github Repository](https://github.com/heartandhandstraining/upskill_saas_tutorial/blob/master/README.md)
 
-I am working on my second Ruby-on-Rails Application via my husband's Github account, which I will deploy within the month. I have, also, studied Python basics, and I do feel I need to learn that similar language for Cisco devices. However, I do not see myself managing large amounts of data. I want to learn more about integrating google sheets data with my web applications, since I have long used and found them to be very handy, not to mention low- or no-cost.
+I am working on my second Ruby-on-Rails Application via my husband's Github account, which I will deploy within the month. I have, also, studied Python basics, and I do feel I need to learn that similar language for Cisco devices. However, I do not see myself managing large amounts of data. I want to learn more about integrating Google sheets data with my web applications, since I have long used and found them to be very handy, not to mention low- or no-cost.
 
 So much to learn.... The forward march!
