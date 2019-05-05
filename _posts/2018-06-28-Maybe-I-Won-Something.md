@@ -1,6 +1,6 @@
 ---
-layout: page
-post: Maybe I Won Someting
+layout: post
+title: Maybe I Won Someting
 ---
 
 I lobbed an entry in for a supposedly free Cisco-CCNA certification class, and I now have information for downloading the materials.
