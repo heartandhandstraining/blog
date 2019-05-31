@@ -5,7 +5,9 @@ title: Happy with my Back-End Javascript!
 
 My venture back to Colt Steele's Back Full-Stack Web Development course IS satisfying! I am solving problems in a more advanced 
 fashion than initially and than Colt is displaying in his solutions. I am happy with honed googling for more elegant and precise
-methods of accomplishing the goals of my code! 
+methods than instructor listed solution of accomplishing the goals of my coding of a project. Or, when I am working 
+ahead a bit and finding errors in the instructor's code, so I google the error message and find how to fix it before the 
+instructor gets to it!
 
 Ha! Ha! It is too funny that it seems I keep saying that I love whatever programming language I am using. Maybe it is that I just
 happen to accidently study the ones I like. Then again, maybe it is that the ones I have worked with all have resemblance to 'C', 
