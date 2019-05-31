@@ -8,8 +8,9 @@ Oh, gosh! And, I hate sitting, so that is another battle, as always! Ah! I am, a
 the downfall of society. History does repeat itself! In the meantime, I will have fun and make use of what I can learn and do in 
 this arena!
 
-The beginnings of a Ruby on Rails site for my husband, [Don Easy](https://obscure-ridge-15169.herokuapp.com/). I just looked at on
-this different computer, and I am not wild about the colors on this particular monitor, but anyway....
+The beginnings of a Ruby on Rails site for my husband, [Don Easy](https://obscure-ridge-15169.herokuapp.com/). I just looked at it
+on a different computer, and I am not wild about the colors on this particular monitor, but anyway.... As stated, this is just a
+start, ie some pages have no design yet.
 
 [Github Repository](https://github.com/heartandhandstraining/blog/new/master/_posts)
 
