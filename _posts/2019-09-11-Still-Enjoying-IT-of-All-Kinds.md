@@ -22,6 +22,8 @@ I have had the guts to fix some things on our home network on the router and the
 tackling it. I am newly married almost a year now after relocating here a year or so prior to that, and I finally jumped in on
 fixing things here. That makes not a lot of sense because I have learned more in the last year than I was ever properly educated in networking. Anyway, it felt good to "fix"or "better" things here; I knew what I needed to check and where I needed to verify/refresh/supplement my recollections, and thanks to google and I little persistence is pretty easy.
 
+![Packet Tracer Image](https://i.ytimg.com/vi/q-UUbPk6fYo/maxresdefault.jpg)
+
 I decided to post about Cisco Packet Tracer. It is such an awesome tool! I have a Cisco lab, too, and I have had both of these
 set-ups for a year, but with little time to play with them. I have played with GNS3 more, and to my recollection, I had
 to do some research to figure out how to keep that one from hogging CPU. I have not had that issue yet with Packet Tracer, so 
@@ -32,5 +34,3 @@ It is not easy to simultaneously work on networking AND programming skills (not 
 enjoy both, they fit together nicely, and it seems being able to do both is the new wave anyway! Though I have not been the 
 primary "bread-winner" most of my adult (the married portion of it, anyway) life, my Daddy taught me to be always prepared to 
 do soddd, in a job I want (hopefully). Mostly, I just love learning, doing, and making progress!
-
-![Packet Tracer Image](https://i.ytimg.com/vi/q-UUbPk6fYo/maxresdefault.jpg)
