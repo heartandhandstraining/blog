@@ -32,3 +32,5 @@ It is not easy to simultaneously work on networking AND programming skills (not 
 enjoy both, they fit together nicely, and it seems being able to do both is the new wave anyway! Though I have not been the 
 primary "bread-winner" most of my adult (the married portion of it, anyway) life, my Daddy taught me to be always prepared to 
 do soddd, in a job I want (hopefully). Mostly, I just love learning, doing, and making progress!
+
+![Packet Tracer Image](https://i.ytimg.com/vi/q-UUbPk6fYo/maxresdefault.jpg)
