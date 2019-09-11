@@ -3,16 +3,18 @@ layout: post
 title: Still Enjoying IT of All Kinds!
 ---
 
-Been thinking of posting for a few days, but feel like I need to have something bigger to post about. I have completed some 
-small web apps for my husband and a friend similar to ones I have done in the past. I need to finish a discussion app for
-CNA class.
+Wow! I just realized this is 9-11, as I had to put a date on this post since I forgot it. On "9-11" I listened in disbelief to
+the radio talking about a plane crashing into the Twin Towers right after my kids got on the bus, headed for country school. I
+went ahead and went with a neighbor to get some Shetland sheep in Great Falls, MT. And, did I ever feel like crap leaving my
+family behind for a couple days at a time that felt like the end of the world!
+
+Been thinking of posting for a few days, but feel like I need a big new-to-me type project to post about. I have completed some small web apps for my husband and a friend similar to ones I have done in the past. I need to finish a discussion app for
+CNA class. I have more ideas for the CNA class, too, but I have not got to it! Grrrrh!
 
 Though I am not where I want to be for a variety of reasons, one being that the stupid skin cancer on my nose again has needed 
-daily treatments for about 4 months now, and those eat up a HUGE chunk of every day. I see the light at the end of the tunnel 
-on that, though, and am gradually retrieveing some time to work on IT play! Halelujah!
+daily treatments (2-4/day) for about 3-4 months now (not to mention the time they took up for 3-4 months last fall, and those eat up a HUGE chunk of every day. I see the light at the end of the tunnel on that, though, and am gradually retrieveing some time to work on IT play! Halelujah!
 
-With Cisco changing their whole testing framework on top of the fact that I am not necessarily looking for full-time employment
-in any IT field, I have just decided to just be well self-educated in networking with devops and security emphasis along with 
+With Cisco changing their whole testing framework on top of the fact that I am not necessarily looking for any type full-time employment, I have just decided to just be well self-educated in networking with devops and security emphasis along with 
 being able to program both front and back end. This education is never-ending and hard to keep up with, but I do not think too 
 much about that so as not to feel overwhelmed and forever not knowing enough to make IT a profession for me. Being a professional 
 in any field is as much about knowing how to find the informational resources you need when you need them as it is about having 
