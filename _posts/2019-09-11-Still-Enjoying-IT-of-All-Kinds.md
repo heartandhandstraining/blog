@@ -33,4 +33,4 @@ a great job of giving as real life as possible experience in working with networ
 It is not easy to simultaneously work on networking AND programming skills (not to mention keep up with nursing CEUs), BUT I 
 enjoy both, they fit together nicely, and it seems being able to do both is the new wave anyway! Though I have not been the 
 primary "bread-winner" most of my adult (the married portion of it, anyway) life, my Daddy taught me to be always prepared to 
-do soddd, in a job I want (hopefully). Mostly, I just love learning, doing, and making progress!
+do be the "bread-winner", in needed, in a job I want (hopefully). Mostly, I just love learning, doing, and making progress!
