@@ -3,7 +3,7 @@ layout: none
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https:heartandhandstraining.github.io//blog.css"?> 
+<?xml-stylesheet type="text/css" href="https://heartandhandstraining.github.io/blog/assets/main.css"?> 
 <rss version="2.0">
   <channel>
     <title>{{ site.name | xml_escape }}</title>
