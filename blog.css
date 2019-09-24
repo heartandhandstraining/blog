@@ -1,0 +1,36 @@
+channel { 
+     width: 100%; 
+} 
+ title { 
+     color : black; 
+     font-size : 40px; 
+}  
+ description, item, guid { 
+     display : block; 
+} 
+ description {
+     font-size: 24px;
+}
+ title { 
+     font-size : 25px; 
+     font-weight : 700; 
+}
+ guid {
+     font-size : 24px;
+}
+ p { 
+     color : #111;
+     font-feature-settings : "kern" 1;
+     font-kerning : normal;
+     font-style : normal;
+     font-variant-ligatures : normal;
+     font-variant-caps : normal;
+     font-variant-numeric : normal;
+     font-variant-east-asian : normal;
+     font-weight : 400;
+     font-stretch : normal;
+     font-size : 16px;
+     line-height : 1.5;
+     font-family : -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+     }
+      
