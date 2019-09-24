@@ -2,7 +2,7 @@ channel {
      width: 100%; 
 } 
  title { 
-     color : red; 
+     color : green; 
      font-size : 40px; 
 }  
  description, item, guid { 
@@ -19,7 +19,7 @@ channel {
      font-size : 24px;
 }
  p { 
-     color : #111;
+     color : red;
      font-feature-settings : "kern" 1;
      font-kerning : normal;
      font-style : normal;
