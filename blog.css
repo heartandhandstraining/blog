@@ -3,7 +3,8 @@ channel {
 } 
  title { 
      color : green; 
-     font-size : 40px; 
+     font-size : 40px;
+     font-weight: 700;
 }  
  description, item, guid { 
      display : block; 
@@ -11,10 +12,10 @@ channel {
  description {
      font-size: 24px;
 }
- title { 
+/*  title { 
      font-size : 25px; 
      font-weight : 700; 
-}
+} */
  guid {
      font-size : 24px;
 }
