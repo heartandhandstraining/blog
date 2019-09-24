@@ -6,7 +6,7 @@ channel {
      font-size : 40px;
      font-weight: 700;
 }  
- description, item, guid { 
+ item, guid { 
      display : block; 
 } 
  description {
@@ -16,9 +16,9 @@ channel {
      font-size : 25px; 
      font-weight : 700; 
 } */
- guid {
+/*  guid {
      font-size : 24px;
-}
+} */
  p { 
      color : red;
      font-feature-settings : "kern" 1;
