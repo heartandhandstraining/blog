@@ -2,7 +2,7 @@ channel {
      width: 100%; 
 } 
  title { 
-     color : black; 
+     color : red; 
      font-size : 40px; 
 }  
  description, item, guid { 
