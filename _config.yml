@@ -11,6 +11,9 @@ markdown: kramdown
 theme: minima
 
 # blog
+plugins:
+  - jekyll-feed
+  
 name:         Heart and Hands
 description:  Blog of Blurbs for Heart and Hands
 url:          https://heartandhandstraining.github.io/blog/
