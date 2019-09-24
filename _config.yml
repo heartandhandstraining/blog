@@ -9,3 +9,8 @@ author: Dawn Ann Beattie, RN, MBA
 # Build settings
 markdown: kramdown
 theme: minima
+
+# blog
+name:         Heart and Hands
+description:  Blog of Blurbs for Heart and Hands
+url:          https://heartandhandstraining.github.io/blog/
