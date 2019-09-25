@@ -8,9 +8,9 @@ layout: none
   <channel>
     <name>{{ site.name | xml_escape }}  
     </name>
+    <link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     <description>{{ site.description | xml_escape }}  
       </description>
-    <link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% for post in site.posts limit:20 %}
       <item>
         <title>{{ post.title | xml_escape }}  
