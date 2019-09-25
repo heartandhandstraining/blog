@@ -7,8 +7,8 @@ layout: none
 <rss version="2.0">
   <channel>
     <name>{{ site.name | xml_escape }}</name>
-    <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
+    <description>{{ site.description | xml_escape }}</description>
     <link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% for post in site.posts limit:20 %}
       <item>
