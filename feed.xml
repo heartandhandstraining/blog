@@ -13,10 +13,10 @@ layout: none
     {% for post in site.posts limit:20 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-<!--         <link>{{ site.url }}/{{ post.url }}</link> -->
         <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
+        <description>{{ post.content | xml_escape }}</description>
+<!--         <link>{{ site.url }}/{{ post.url }}</link> -->
       </item>
     {% endfor %}
   </channel>
