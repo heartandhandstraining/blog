@@ -8,10 +8,14 @@ name {
  title { 
      color: #1756a9; 
      font-size : 40px; 
-/*      background-color : powderblue;  */
+     background-color : powderblue; 
 } 
  item, description { 
      display : block;
      font-size : 24;
      font-weight : 300;
 } 
+
+guid {
+     color: #1756a9;
+}
