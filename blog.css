@@ -2,30 +2,30 @@ channel {
       width:  96%; 
 } 
  name {
-     float : left;
+/*      float : left; */
      font-size : 48px;
      font-weight : 700;
-     line-height : 54px;
+/*      line-height : 54px; */
 }
  title {
-     float : left;
+/*      float : left; */
      color : #1756a9; 
      font-size : 24px;
      font-weight: 300;
 }  
- item {
+/*  item {
      display : block;
      margin-top : 10px;
      margin-bottom : 10px;
-}
+} */
  description {
      display : block;
      font-size: 20px;
 }
  pubDate {
-     float : right;
+/*      float : right; */
      font-size : 24;
-     line-height : 54px;
+/*      line-height : 54px; */
 /*  title { 
      font-size : 25px; 
      font-weight : 700; 
