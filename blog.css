@@ -14,7 +14,7 @@ channel {
      font-weight: 300;
 }  
  item {
-       display : block;
+       display : inline;
 }
  description {
      font-size: 20px;
