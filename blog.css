@@ -12,7 +12,7 @@ channel {
      font-size : 32px;
      font-weight: 300;
 }  
- item, guid { 
+ item { 
      float : left;
 } 
  description {
