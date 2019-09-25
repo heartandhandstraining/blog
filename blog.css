@@ -4,19 +4,19 @@ channel {
  name {
      text-align : center;
      font-size: 54px;
-     font-weight: 300;
+     font-weight: 700;
      line-height: 54px;
 }
  title { 
-     color : green; 
-     font-size : 40px;
-     font-weight: 700;
+     color : #1756a9; 
+     font-size : 32px;
+     font-weight: 300;
 }  
  item, guid { 
      float : left;
 } 
  description {
-     font-size: 14px;
+     font-size: 20px;
 }
 /*  title { 
      font-size : 25px; 
