@@ -6,7 +6,7 @@ layout: page
 <?xml-stylesheet type="text/css" href="https://heartandhandstraining.github.io/blog/blog.css"?> 
 <rss version="2.0">
   <channel>
-    <head>{{ site.name | xml_escape }}</head>
+    <name>{{ site.name | xml_escape }}</name>
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
     <link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
