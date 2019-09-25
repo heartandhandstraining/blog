@@ -11,8 +11,8 @@ layout: none
     <link>{{ site.url }}  
     </link>
     <link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    <description>{{ site.description | xml_escape }}  
-      </description>
+<!--     <description>{{ site.description | xml_escape }}  
+      </description> -->
     {% for post in site.posts limit:20 %}
       <item>
         <title>{{ post.title | xml_escape }}  
