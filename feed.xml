@@ -6,15 +6,15 @@ layout: none
 <?xml-stylesheet type="text/css" href="https://heartandhandstraining.github.io/blog/blog.css"?> 
 <rss version="2.0">
   <channel>
-    <name>{{ site.name | xml_escape }}</name>\n
-    <description>{{ site.description | xml_escape }}</description>\n
+    <name>{{ site.name | xml_escape }}\n</name>
+    <description>{{ site.description | xml_escape }}\n</description>
     <link>{{ site.url }}</link>
-    <link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />\n
+    <link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% for post in site.posts limit:20 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>\n
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>\n
-        <description>{{ post.content | xml_escape }}</description>\n
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}\n</pubDate>
+        <description>{{ post.content | xml_escape }}\n</description>
 <!--         <link>{{ site.url }}/{{ post.url }}</link> -->
         <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
       </item>
