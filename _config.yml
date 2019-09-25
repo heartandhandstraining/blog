@@ -9,7 +9,3 @@ author: Dawn Ann Beattie, RN, MBA
 # Build settings
 markdown: kramdown
 theme: minima
-
-# blog
-plugins:
-  - jekyll-feed
