@@ -2,13 +2,13 @@ name {
      color: #424242;
      font-size : 54px;
      font-weight : 700;
-     background-color : powderblue; 
+     background-color : #1756a9; 
      width: 100%; 
 } 
  title { 
      color: #1756a9; 
      font-size : 40px; 
-     background-color : powderblue; 
+/*      background-color : powderblue;  */
 } 
  item, description { 
      display : block;
