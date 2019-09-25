@@ -1,21 +1,21 @@
 channel { 
-      width:  auto; 
+      width:  96%; 
 } 
  name {
-     text-align : center;
-     font-size: 32px;
+     float : right;
+     font-size: 48px;
      font-weight: 700;
      line-height: 54px;
 }
- title { 
+ title {
+     float : left;
      color : #1756a9; 
      font-size : 24px;
      font-weight: 300;
 }  
- item { 
-     float : left;
-     font-size : 16;
-} 
+ item {
+       display : block;
+}
  description {
      font-size: 20px;
 }
