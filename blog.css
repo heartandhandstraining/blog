@@ -1,7 +1,7 @@
 channel { 
       width:  auto; 
 } 
- head {
+ name {
      text-align : center;
      font-size: 54px;
      font-weight: 300;
