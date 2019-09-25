@@ -3,21 +3,25 @@ channel {
 } 
  name {
      text-align : center;
-     font-size: 54px;
+     font-size: 32px;
      font-weight: 700;
      line-height: 54px;
 }
  title { 
      color : #1756a9; 
-     font-size : 32px;
+     font-size : 24px;
      font-weight: 300;
 }  
  item { 
      float : left;
+     font-size : 16;
 } 
  description {
      font-size: 20px;
 }
+ pubDate {
+     float : right;
+       font-size : 12;
 /*  title { 
      font-size : 25px; 
      font-weight : 700; 
