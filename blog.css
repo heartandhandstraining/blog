@@ -13,10 +13,10 @@ channel {
      font-weight: 700;
 }  
  item, guid { 
-     display : block; 
+     float : left;
 } 
  description {
-     font-size: 24px;
+     font-size: 14px;
 }
 /*  title { 
      font-size : 25px; 
