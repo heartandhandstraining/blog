@@ -8,16 +8,17 @@ channel {
      line-height : 54px;
 }
  title {
-     float : left;
+/*      float : left; */
      color : #1756a9; 
      font-size : 24px;
      line-height : 54px;
      font-weight: 300;
 }  
  item {
-       display : block;
+     display : block;
 }
  description {
+     display : block;
      font-size: 20px;
 }
  pubDate {
