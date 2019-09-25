@@ -1,6 +1,15 @@
 channel { 
-     width: auto; 
+      width:  auto; 
 } 
+ head {
+     text-align : center;
+     font-size: 26px;
+     font-weight: 300;
+     line-height: 54px;
+     letter-spacing: -1px;
+     margin-bottom: 0;
+     float: left;
+}
  title { 
      color : green; 
      font-size : 40px;
