@@ -8,8 +8,8 @@ layout: none
   <channel>
     <name>{{ site.name | xml_escape }}  
     </name>
-    <link>{{ site.url }}  
-    </link>
+    <description>{{ site.description | xml_escape }}  
+      </description>
     <link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
     {% for post in site.posts limit:20 %}
       <item>
@@ -22,8 +22,6 @@ layout: none
 <!--         <link>{{ site.url }}/{{ post.url }}</link> -->
         <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
       </item>
-      <description>{{ site.description | xml_escape }}  
-      </description>
     {% endfor %}
   </channel>
 </rss>
