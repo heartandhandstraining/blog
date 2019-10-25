@@ -8,7 +8,7 @@ An interesting observation is that the older gal close to my age has finished, t
 steady-paced over a couple year time frame. The younger gal progressed quickly in the beginning and slowed by a year and has done 
 little since, and she has not finished.
 
-I love it! I am like that older gal. Yes, still working on this stuff. I have built apps with Ruby on Rails, REACT and Node JS along with
+I love it! I am like that older gal, both in age and style. Yes, still working on this stuff. I have built apps with Ruby on Rails, REACT and Node JS along with
 Express and many other package dependencies, including Mongo DB. Too me there are so many similarities in these languages and 
 frameworks. I will continue working with coding along with Cisco Networking, where I have worked with Python as well.
 
