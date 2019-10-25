@@ -5,7 +5,7 @@ title: Just-Determined-AND-Passionate!
 
 Yes, it takes that, especially at my age! I kind of followed a couple of gals working through the Flatiron Coding School's Online. 
 An interesting observation is that the older gal close to my age has finished, the younger one has not. The older was slow and 
-steady-paced over a couple year time frame. The younger gal progressed quickly in the beginning and slowed by a year and has done 
+steady-paced over a couple year time frame. The younger gal progressed quickly in the beginning and slowed by a year, has done 
 little since, and she has not finished.
 
 I love it! I am like that older gal, both in age and style. Yes, still working on this stuff. I have built apps with Ruby on Rails, REACT and Node JS along with
