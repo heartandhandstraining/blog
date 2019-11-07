@@ -6,7 +6,7 @@ title: Local-Mongodb-on-My-Mac
 I now have mongodb on my MacBook. With some online research and a lot of persistence, I am up an running. I downloaded a zip file
 of my github app with I had both development and deployment database configuration. Of course deployment database would allow me to continue working on the project, I was determined to get make sure I had a local database for continued development. 
 
-For some reason, I must have left another process running on local port 27017, so I had to figure out how to stop that or designate another port. Either could be done according to my research, but I killed the process. 
+After installing mongodb (without homebrew, which I had installed) and then trying to run it, I found I must have previously left another process running on local port 27017, so I had to figure out how to stop it or designate another port. Either could be done according to my research, but I found and killed the process. I had to refresh my memory on how to create a new mongo database, and I had to get get MONGO_PATH export configuration into my .bash_profile and the correct mongo dbpath in the .mongod file of my app. It is amazing how error messages are so much less like mud the more I program, but I know they will never be totally clear, and for that I google!
 
 Power outages and FREE cloud IDEs going away or being less than optimal spurred me to continue transitioning to primarily local programming on my Mac, which is why I bought the machine 2 years ago. Cloud 9 was absorbed by AWS, and free goormIDE is slow and
 puts passwords at risk. And, of course, I can still work locally on my Mac, at least temporarily, without power!
