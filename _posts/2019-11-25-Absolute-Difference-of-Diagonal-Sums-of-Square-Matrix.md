@@ -1,5 +1,5 @@
 ---
-layout: page
-post: Absolute Difference of Diagonal Sums of Square Matrix
+layout: post
+title: Absolute Difference of Diagonal Sums of Square Matrix
 ---
-![Code for Absolute Difference of Diagonal Sums of Square Matrix](http://www.keepandshare.com/userpics/h/e/a/r/tnhandstraining/2019-11/sb/still_jpg_776x502-15225426.jpg?ts=1574720277)
+![Code for Absolute Difference of Diagonal Sums of Square Matrix](https://github.com/heartandhandstraining/wbdv/blob/master/img/portfolio/Still%20JPG%20(776x502).jpg?raw=true)
